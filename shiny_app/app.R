@@ -39,7 +39,7 @@ ui <- fluidPage(
 
 server <- function(input, output) {
 
-  #
+  #filters the grizzle dataset by Region for use with the selectInput feature
   by_region <- reactive({
     grizzly %>%
       filter(Region == input$regionInput)
