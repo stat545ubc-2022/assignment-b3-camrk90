@@ -3,8 +3,8 @@ This repository contains all the necessary files and links for the STAT545B Assi
     - An input to select the region
     - A plot that is populated by the region selection
     - A background image of a grizzly
-  - For assignment B-4, I chose option 3 and includes the following features:
-    - A region input selection as well as a 2nd parameter input that adjusts the y variable
+  - For assignment B-4, I chose option 3 and includes the following features, in addition to those listed above:
+    - A parameter input that adjusts the y variable
     - 3 different plots that react to the region and parameter inputs
     - A new background image and a smaller thumbnail in the sidebar
     - Improved layout and brief instructions for the user
