@@ -1,7 +1,11 @@
-This repository contains all the necessary files and links for the STAT545B Assignment B-3.
-  - For this assignment, I choose Option B. 
+This repository contains all the necessary files and links for the STAT545B Assignment B-4.
+  - For this assignment, I choose Option 3. 
 
-The shiny app detailed here provides users a glimpse at the BC Gov 2019 dataset on Grizzly Bear conservation efforts, in particular it provides users with a plot of population size estimates per region within BC. To navigate the plot, use the Region select tool on the left-hand side. 
+The shiny app detailed here updates the app from assignment B3. It adds a few extra features such as:
+- A parameter input with 3 options
+- 3 different plots that correspond to the parameter input
+- A new background and tidier layout
+- Brief instructions for the user
 
 To access the app, use this link: https://crkelsey.shinyapps.io/2018_BC_Grizzly_Conservation/
 
